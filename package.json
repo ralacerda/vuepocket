@@ -33,6 +33,10 @@
     "test": "pnpm lint && pnpm test:types && vitest run --coverage",
     "test:types": "tsc --noEmit --skipLibCheck"
   },
+  "peerDependencies": {
+    "pocketbase": "^0.21.4",
+    "vue": "^3.2.0"
+  },
   "devDependencies": {
     "@types/node": "^22.1.0",
     "@vitest/coverage-v8": "^2.0.5",
