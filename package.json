@@ -1,6 +1,6 @@
 {
   "name": "vuepocket",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Vue composables for working with PocketBase",
   "repository": {
     "type": "git",
