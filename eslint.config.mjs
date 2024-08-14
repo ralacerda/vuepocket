@@ -4,6 +4,7 @@ export default unjs({
   ignores: [
     // ignore paths
     "pnpm-lock.yaml",
+    "playground",
   ],
   rules: {
     // rule overrides
